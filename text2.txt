@@ -1,1 +1,2 @@
 Created a new file in Dummy file via local folder 
+Created a new line in the text2.txt
